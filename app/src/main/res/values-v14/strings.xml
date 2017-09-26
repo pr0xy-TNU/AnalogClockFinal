@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">Runic Watches</string>
+  <string name="hello">
+    Здравствуйте!\n\n
+    Рунные часы были установлены\n\n
+    Вам необходимо добавить виджет часов на рабочий экран.
+</string>
+</resources>
